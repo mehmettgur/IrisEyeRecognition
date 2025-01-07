@@ -8,10 +8,7 @@ This repository contains the implementation of an iris recognition system using 
 
 Iris recognition is a robust biometric identification method due to the unique and stable texture patterns of the human iris. This project explores the use of **Convolutional Neural Networks (CNNs)** in combination with advanced preprocessing methods to improve feature extraction and recognition accuracy.
 
-The primary goal is **not achieving state-of-the-art scores** but to learn:
-- The impact of preprocessing techniques.
-- How parameter adjustments affect model behavior.
-- Fundamentals of building and optimizing deep learning models.
+The primary focus of this project is not on achieving the highest possible accuracy but rather on gaining a deeper understanding of preprocessing methods and parameter tuning through systematic experimentation
 
 ---
 
